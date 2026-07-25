@@ -75,7 +75,7 @@ The following visualizations were created to better understand the dataset:
 
 ### Marital Status Distribution
 
-![Marital Status Distribution](images/marital_distribution.png)
+![Marital Status Distribution](images/marital_level_distribution.png)
 
 ### Education Distribution
 
@@ -183,7 +183,7 @@ PRODIGY_DS_03_Decision_Tree_Classifier/
 │   ├── education_level_distribution.png housing_loan_distribution.png
 │   ├── feature_importance.png personal_loan_distribution.png
 │   ├── housing_loan_distribution.png
-│   ├── marital_distribution.png
+│   ├── marital_level_distribution.png
 │   ├── personal_loan_distribution.png 
 │   ├── subscription_by_education.png
 │   ├── subscription_by_job.png
