@@ -175,19 +175,19 @@ These features contribute the most toward predicting customer subscription behav
 PRODIGY_DS_03_Decision_Tree_Classifier/
 │
 ├── images/
-│   ├── target_distribution.png
 │   ├── age_distribution.png
-│   ├── job_distribution.png
-│   ├── marital_distribution.png
-│   ├── education_distribution.png
-│   ├── housing_loan_distribution.png
-│   ├── personal_loan_distribution.png
-│   ├── correlation_heatmap.png
-│   ├── subscription_by_job.png
-│   ├── subscription_by_education.png
 │   ├── confusion_matrix.png
-│   ├── decision_tree.png
-│   └── feature_importance.png
+│   ├── correlation_heatmap.png 
+│   ├── customer_job_distribution.png marital_distribution.png
+│   ├── decision_tree.png 
+│   ├── education_level_distribution.png housing_loan_distribution.png
+│   ├── feature_importance.png personal_loan_distribution.png
+│   ├── housing_loan_distribution.png
+│   ├── marital_distribution.png
+│   ├── personal_loan_distribution.png 
+│   ├── subscription_by_education.png
+│   ├── subscription_by_job.png
+│   └── target_variable_distribution.png
 │
 ├── bank-full.csv
 ├── PRODIGY_DS_03_Decision_Tree_Classifier.ipynb
