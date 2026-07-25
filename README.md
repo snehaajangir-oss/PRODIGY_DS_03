@@ -63,7 +63,7 @@ The following visualizations were created to better understand the dataset:
 
 ### Target Variable Distribution
 
-![Target Distribution](images/target_distribution.png)
+![Target Distribution](images/target_variable_distribution.png)
 
 ### Age Distribution
 
@@ -71,7 +71,7 @@ The following visualizations were created to better understand the dataset:
 
 ### Job Distribution
 
-![Job Distribution](images/job_distribution.png)
+![Job Distribution](images/customer_job_distribution.png)
 
 ### Marital Status Distribution
 
@@ -79,7 +79,7 @@ The following visualizations were created to better understand the dataset:
 
 ### Education Distribution
 
-![Education Distribution](images/education_distribution.png)
+![Education Distribution](images/education_level_distribution.png)
 
 ### Housing Loan Distribution
 
